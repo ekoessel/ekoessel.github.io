@@ -1,0 +1,40 @@
+I"�<!-- <mark>Update: 13 Feb 2021 -->
+
+<p>The <em>Finder</em> is MacOS’ equivalent to <em>Windows Explorer</em> and is handy to use due to useful systemwide shortcuts.</p>
+
+<hr />
+
+<h2 id="new-finder-tab---t">New Finder-Tab (⌘ + T)</h2>
+
+<p>Generating a new tab in the finder window is as simple as just using the <strong>Command + T</strong> shortcut.</p>
+
+<p><img src="/assets/images/2021-02-14-new-tab.gif" alt="Image for generating a new Tab" />
+<em>New finder tab in action.</em></p>
+
+<hr />
+
+<h2 id="copy---c--paste---v">Copy (⌘ + C) + Paste (⌘ + V)</h2>
+
+<p>Copying and pasting files works with <strong>Command + C / Command + V</strong> shortcuts.</p>
+
+<p><img src="/assets/images/2021-02-14-copy-paste.gif" alt="Image for generating a new Tab" />
+<em>Copy/Paste in action.</em></p>
+
+<hr />
+
+<h2 id="new-folder-----n">New Folder (⌘ + ⇧ + N)</h2>
+
+<p>Creating a new folder is done by the shortcut <strong>Command + Shift + N</strong>.</p>
+
+<p><img src="/assets/images/2021-02-14-new-folder.gif" alt="Image for generating a new Tab" />
+<em>New folder tab in action.</em></p>
+
+<hr />
+
+<h2 id="duplicate-filefolder---d">Duplicate File/Folder (⌘ + D)</h2>
+
+<p>Duplicating a file or folder is simpler as just using Copy/Paste in the same file and location. Just use the shortcut <strong>Command + D</strong>.</p>
+
+<p><img src="/assets/images/2021-02-14-duplicate.gif" alt="Image for generating a new Tab" />
+<em>Duplicating action.</em></p>
+:ET

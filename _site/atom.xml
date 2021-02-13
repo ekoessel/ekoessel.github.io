@@ -4,13 +4,60 @@
  <title>Ekoessel</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-09-06T00:27:28+02:00</updated>
+ <updated>2021-02-14T00:58:21+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Finder Shortcuts For The Win</title>
+   <link href="http://localhost:4000/2021/02/13/finder-shortcuts-for-the-win/"/>
+   <updated>2021-02-13T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2021/02/13/finder-shortcuts-for-the-win</id>
+   <content type="html">&lt;!-- &lt;mark&gt;Update: 13 Feb 2021 --&gt;
+
+&lt;p&gt;The &lt;em&gt;Finder&lt;/em&gt; is MacOS’ equivalent to &lt;em&gt;Windows Explorer&lt;/em&gt; and is handy to use due to useful systemwide shortcuts.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;new-finder-tab---t&quot;&gt;New Finder-Tab (⌘ + T)&lt;/h2&gt;
+
+&lt;p&gt;Generating a new tab in the finder window is as simple as just using the &lt;strong&gt;Command + T&lt;/strong&gt; shortcut.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-02-14-new-tab.gif&quot; alt=&quot;Image for generating a new Tab&quot; /&gt;
+&lt;em&gt;New finder tab in action.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;copy---c--paste---v&quot;&gt;Copy (⌘ + C) + Paste (⌘ + V)&lt;/h2&gt;
+
+&lt;p&gt;Copying and pasting files works with &lt;strong&gt;Command + C / Command + V&lt;/strong&gt; shortcuts.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-02-14-copy-paste.gif&quot; alt=&quot;Image for generating a new Tab&quot; /&gt;
+&lt;em&gt;Copy/Paste in action.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;new-folder-----n&quot;&gt;New Folder (⌘ + ⇧ + N)&lt;/h2&gt;
+
+&lt;p&gt;Creating a new folder is done by the shortcut &lt;strong&gt;Command + Shift + N&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-02-14-new-folder.gif&quot; alt=&quot;Image for generating a new Tab&quot; /&gt;
+&lt;em&gt;New folder tab in action.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;duplicate-filefolder---d&quot;&gt;Duplicate File/Folder (⌘ + D)&lt;/h2&gt;
+
+&lt;p&gt;Duplicating a file or folder is simpler as just using Copy/Paste in the same file and location. Just use the shortcut &lt;strong&gt;Command + D&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-02-14-duplicate.gif&quot; alt=&quot;Image for generating a new Tab&quot; /&gt;
+&lt;em&gt;Duplicating action.&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Introduction</title>
@@ -23,7 +70,7 @@
 
 &lt;p&gt;Poole is the butler for &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, the static site generator. It’s designed and developed by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt; to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.&lt;/p&gt;
 
-&lt;p&gt;This demo site was last updated September 06, 2020.&lt;/p&gt;
+&lt;p&gt;This demo site was last updated February 14, 2021.&lt;/p&gt;
 
 &lt;p&gt;There are currently two themes built on Poole:&lt;/p&gt;
 

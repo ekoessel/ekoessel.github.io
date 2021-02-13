@@ -1,0 +1,46 @@
+I"l<p><mark>Update: 08 Feb 2021</mark></p>
+
+<p>The <em>Finder</em> is MacOS’ equivalent to <em>Windows Explorer</em> and is handy to use due to useful systemwide shortcuts.</p>
+
+<hr />
+
+<h2 id="new-finder-tab---t">New Finder-Tab (⌘ + T)</h2>
+
+<p>Generating a new tab in the finder window is as simple as just using the Command + T Shortcut.</p>
+
+<p><img src="/assets/images/2021-02-07-new-tab.gif" alt="Image for generating a new Tab" />
+<em>image_caption</em></p>
+
+<blockquote>
+  <p>⌘ + T
+<code class="language-plaintext highlighter-rouge">nano</code></p>
+</blockquote>
+
+<hr />
+
+<h2 id="copy---c--paste---v">Copy (⌘ + C) + Paste (⌘ + V)</h2>
+
+<p>Copying and pasting files works with the shortcuts Command + C / Command + V.</p>
+
+<hr />
+
+<h2 id="new-folder-----n">New Folder (⌘ + ⇧ + N)</h2>
+
+<p>Creating a new folder is done by Command + Shift + N.</p>
+
+<hr />
+
+<h2 id="duplicate-filefolder---d">Duplicate File/Folder (⌘ + D)</h2>
+
+<p>Duplicating</p>
+
+<h2 id="browser-support">Browser support</h2>
+
+<p>Poole and its themes are by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), Firefox, and Edge.</p>
+
+<h2 id="download">Download</h2>
+
+<p>These themes are developed on and hosted with GitHub. Head to the <a href="">GitHub repository</a> for downloads, bug reports, and features requests.</p>
+
+<p>Thanks!</p>
+:ET
