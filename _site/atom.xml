@@ -4,13 +4,65 @@
  <title>Ekoessel</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-02-14T01:27:34+01:00</updated>
+ <updated>2025-04-19T22:16:19+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Getting Started with Payload 3 Localization Boilerplate</title>
+   <link href="http://localhost:4000/2025/04/19/getting-started-with-payload-3-localization-boilerplate/"/>
+   <updated>2025-04-19T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2025/04/19/getting-started-with-payload-3-localization-boilerplate</id>
+   <content type="html">&lt;!-- &lt;mark&gt;Update: 19 Apr 2025 --&gt;
+
+&lt;!-- The _Finder_ is MacOS&apos; equivalent to _Windows Explorer_ and is handy to use due to useful systemwide shortcuts. --&gt;
+
+&lt;p&gt;I have finally found a good starting point for the development of a multilingual Payload 3 website. So far I have found it difficult to find a good way to implement multilingualism ‘correctly’ in Payload. Unfortunately, in my opinion, the documentation here is not in-depth enough or I lack the necessary skills.
+But I have now found a template that is based on the Payload Webiste template and already has multilingualism integrated. This example can be found in the regular payload repository and I would like to briefly summarise how the individual steps work.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;installation&quot;&gt;Installation&lt;/h2&gt;
+
+&lt;p&gt;You can either clone the corresponding repository &lt;a href=&quot;https://github.com/payloadcms/payload/tree/main/examples/localization&quot;&gt;Repository&lt;/a&gt; or simply install it from scratch:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;npx create-payload-app --example localization&lt;/code&gt;
+&lt;br /&gt;&lt;em&gt;(clone the localization example)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;cp .env.example .env&lt;/code&gt;
+&lt;br /&gt;&lt;em&gt;(generate .env file)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pnpm install&lt;/code&gt;
+&lt;br /&gt;&lt;em&gt;(install all dependencies via pnpm (don’t use npm))&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;docker compose up&lt;/code&gt;
+&lt;br /&gt;&lt;em&gt;(set up local database)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pnpm run dev&lt;/code&gt;
+&lt;br /&gt;&lt;em&gt;(run development server)&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;sidenotes&quot;&gt;Sidenotes&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;pnpm instead of npm:&lt;/b&gt;&lt;br /&gt;I first tried to use &lt;em&gt;npm&lt;/em&gt; as my regular package manager here. It caused too much trouble so I gave &lt;em&gt;pnpm&lt;/em&gt; a try and all the dependenciy issues were gone.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Issue with “sharp” module:&lt;/b&gt;&lt;br /&gt;I went into issues with the sharp module when running &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pnpm dev&lt;/code&gt;. The following additional lines to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;package.json&lt;/code&gt; fixed it for me:&lt;br /&gt;&lt;br /&gt;&lt;code&gt;&quot;pnpm&quot;: {&lt;br /&gt;
+&quot;overrides&quot;: {&lt;br /&gt;
+&quot;sharp&quot;: &quot;0.33.5&quot;&lt;br /&gt;
+}&lt;br /&gt;
+}&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Finder Shortcuts For The Win</title>
